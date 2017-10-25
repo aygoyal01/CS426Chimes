@@ -1,0 +1,4 @@
+Schedule and deliverable
+	terrains for tundra and sand -- Wed 3 pm
+	modified player move script -- Thursday by 2pm
+	3d model for character -- Friday by 6pm
