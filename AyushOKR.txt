@@ -1,1 +1,2 @@
-Enemy AI
+Schedule and deliverable:
+Enemy AI and Deliver by wednesday : 10:00 PM
